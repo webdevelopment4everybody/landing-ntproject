@@ -82,7 +82,7 @@
                         </div>
                         <div class="col-3 col-lg-6 col-md-12 text-center mb-10">
                             <div class="arrow-down">
-                            Plotas 
+                            Kambarių skaičius
                             <img class="fa-chevron-down" src="<?php echo get_template_directory_uri();?>/assets/images/arrow-pointing-down.png" alt="">
                         </div>
                         <div class="rules-description-box ">
@@ -94,7 +94,7 @@
                         </div>
                         <div class="col-3 col-lg-6 col-md-12 text-center mb-10">
                             <div class="arrow-down">
-                            Plotas 
+                            Langų orientacija
                             <img class="fa-chevron-down" src="<?php echo get_template_directory_uri();?>/assets/images/arrow-pointing-down.png" alt="">
                         </div>
                         <div class="rules-description-box ">
@@ -106,7 +106,7 @@
                         </div>
                         <div class="col-3 col-lg-6 col-md-12 text-center mb-10">
                             <div class="arrow-down">
-                                Plotas 
+                            Baigtumas
                                 <img class="fa-chevron-down" src="<?php echo get_template_directory_uri();?>/assets/images/arrow-pointing-down.png" alt="">
                             </div>
                             <div class="rules-description-box ">
