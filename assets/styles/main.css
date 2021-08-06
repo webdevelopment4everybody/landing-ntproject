@@ -338,8 +338,8 @@ nav {
 }
 
 .table-body .title p {
-    max-width: 115px;
     margin-bottom: 25px;
+    text-align: center;
 }
 
 .table-body .data {
@@ -352,6 +352,7 @@ nav {
     height: 65px;
     display: flex!important;
     align-items: center;
+    justify-content: center;
 }
 
 .table-row:nth-child(2n) {
