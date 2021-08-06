@@ -416,6 +416,15 @@ nav {
     font-weight: bold;
     font-family: 'Quicksand', sans-serif;
     padding: 0 20px;
+    z-index: 3;
+}
+
+.single-new .overlay {
+    position: absolute;
+    z-index: 2;
+    top: 0;
+    left: 0;
+    width: 100%;
 }
 
 .news-box.container-fluid .col-4 {
