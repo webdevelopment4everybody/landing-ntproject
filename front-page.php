@@ -255,36 +255,42 @@
             <div class="col-4 col-md-6 col-sm-12">
                 <div class="single-new">
                     <img class="w-100" src="<?php echo get_template_directory_uri();?>/assets/images/news1.png" alt="">
+                    <img class="overlay" src="<?php echo get_template_directory_uri();?>/assets/images/overlay.png" alt="">
+                    <p>Lorem ipsum dolor sit.</p>
+                </div>
+            </div>
+            <div class="col-4 col-md-6 col-sm-12">
+                <div class="single-new">
+                    <img class="w-100" src="<?php echo get_template_directory_uri();?>/assets/images/news-2.png" alt="">
+                    <img class="overlay" src="<?php echo get_template_directory_uri();?>/assets/images/overlay.png" alt="">
+                    <p>Lorem ipsum dolor sit.</p>
+                </div>
+            </div>
+            <div class="col-4 col-md-6 col-sm-12">
+                <div class="single-new">
+                    <img class="w-100" src="<?php echo get_template_directory_uri();?>/assets/images/news-3.png" alt="">
+                    <img class="overlay" src="<?php echo get_template_directory_uri();?>/assets/images/overlay.png" alt="">
                     <p>Lorem ipsum dolor sit.</p>
                 </div>
             </div>
             <div class="col-4 col-md-6 col-sm-12">
                 <div class="single-new">
                     <img class="w-100" src="<?php echo get_template_directory_uri();?>/assets/images/news1.png" alt="">
+                    <img class="overlay" src="<?php echo get_template_directory_uri();?>/assets/images/overlay.png" alt="">
                     <p>Lorem ipsum dolor sit.</p>
                 </div>
             </div>
             <div class="col-4 col-md-6 col-sm-12">
                 <div class="single-new">
                     <img class="w-100" src="<?php echo get_template_directory_uri();?>/assets/images/news1.png" alt="">
+                    <img class="overlay" src="<?php echo get_template_directory_uri();?>/assets/images/overlay.png" alt="">
                     <p>Lorem ipsum dolor sit.</p>
                 </div>
             </div>
             <div class="col-4 col-md-6 col-sm-12">
                 <div class="single-new">
                     <img class="w-100" src="<?php echo get_template_directory_uri();?>/assets/images/news1.png" alt="">
-                    <p>Lorem ipsum dolor sit.</p>
-                </div>
-            </div>
-            <div class="col-4 col-md-6 col-sm-12">
-                <div class="single-new">
-                    <img class="w-100" src="<?php echo get_template_directory_uri();?>/assets/images/news1.png" alt="">
-                    <p>Lorem ipsum dolor sit.</p>
-                </div>
-            </div>
-            <div class="col-4 col-md-6 col-sm-12">
-                <div class="single-new">
-                    <img class="w-100" src="<?php echo get_template_directory_uri();?>/assets/images/news1.png" alt="">
+                    <img class="overlay" src="<?php echo get_template_directory_uri();?>/assets/images/overlay.png" alt="">
                     <p>Lorem ipsum dolor sit.</p>
                 </div>
             </div>
