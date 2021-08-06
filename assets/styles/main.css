@@ -708,6 +708,7 @@ footer {
     }
     .container.table-body.mobile .single-row {
         margin: 0 20px;
+        text-align: center;
     }
     .contacts-bg {
         display: none;
@@ -834,8 +835,8 @@ footer {
     .contact-form input[type="checkbox"] {
         margin-right: 15px;
     }
-    .contact-form label {
-        width: 80%;
+    .container.contacts .team {
+        text-align: center;
     }
 }
 
